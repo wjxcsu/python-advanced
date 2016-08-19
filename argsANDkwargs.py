@@ -12,3 +12,6 @@ def greet_me(**kwargs):
 		print '%s==%s'%(key,value)
 
 print "ssss"
+
+
+print "I love you"
