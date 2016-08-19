@@ -10,3 +10,5 @@ def test_var_args(f_arg,*args):
 def greet_me(**kwargs):
 	for key,value in kwargs.items():
 		print '%s==%s'%(key,value)
+
+print "ssss"
